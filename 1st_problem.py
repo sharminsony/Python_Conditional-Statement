@@ -1,5 +1,4 @@
-##1. Largest among Three Numbers: Write a Python program that takes three numbers as input 
-##and prints out the largest among them.
+##1. Largest among Three Numbers: Write a Python program that takes three numbers as input and prints out the largest among them.
 
 A= int(input("A= "))
 B= int(input("B= "))
